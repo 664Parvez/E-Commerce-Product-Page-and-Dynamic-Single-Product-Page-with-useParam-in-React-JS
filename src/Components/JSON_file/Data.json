@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "title" : "React Native",
+        "des" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text 1.",
+        "btnText" : "read more"
+    },
+    {
+        "id" : 2,
+        "title" : "Next JS",
+        "des" : "looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English It is a long established fact that a reader will be distracted by the readable content of a page when. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text 2",
+        "btnText" : "read more"
+    },
+    {
+        "id" : 3,
+        "title" : "JavaScript",
+        "des" : "fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many It is a long established desktop publishing packages and web page editors now use Lorem Ipsum as their default model text 3",
+        "btnText" : "read more"
+    },
+    {
+        "id" : 4,
+        "title" : "React JS",
+        "des" : "of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text 4 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution",
+        "btnText" : "read more"
+    }
+]
